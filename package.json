@@ -1,0 +1,13 @@
+{
+  "name": "io.node.deploy-bitbucket",
+  "version": "0.0.1",
+  "main": "main.js",
+  "description": "Automate your application deployments from Bitbucket.org GIT repositories to Linux targets.",
+  "author": "Hans van den Akker <hans@bizboard.nl>",
+  "dependencies": {
+    "express": ">= 4.9.4",
+    "body-parser": ">= 1.8.3",
+    "underscore": ">= 1.7.0"
+  },
+  "engine": "node 0.10.25"
+}
