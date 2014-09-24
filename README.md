@@ -1,4 +1,4 @@
-io.deploy.autodeploy-bitbucket
+js.deploy.autodeploy-bitbucket
 ========================
 Automate your application deployment on Linux target machines. You can configure 1 or many repositories and script a shell script with custom steps to deploy as you require.
 
